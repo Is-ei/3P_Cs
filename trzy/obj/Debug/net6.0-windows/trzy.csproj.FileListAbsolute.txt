@@ -1,0 +1,17 @@
+C:\3P\trzy\bin\Debug\net6.0-windows\trzy.exe
+C:\3P\trzy\bin\Debug\net6.0-windows\trzy.deps.json
+C:\3P\trzy\bin\Debug\net6.0-windows\trzy.runtimeconfig.json
+C:\3P\trzy\bin\Debug\net6.0-windows\trzy.dll
+C:\3P\trzy\bin\Debug\net6.0-windows\trzy.pdb
+C:\3P\trzy\obj\Debug\net6.0-windows\trzy.csproj.AssemblyReference.cache
+C:\3P\trzy\obj\Debug\net6.0-windows\trzy.Form1.resources
+C:\3P\trzy\obj\Debug\net6.0-windows\trzy.csproj.GenerateResource.cache
+C:\3P\trzy\obj\Debug\net6.0-windows\trzy.GeneratedMSBuildEditorConfig.editorconfig
+C:\3P\trzy\obj\Debug\net6.0-windows\trzy.AssemblyInfoInputs.cache
+C:\3P\trzy\obj\Debug\net6.0-windows\trzy.AssemblyInfo.cs
+C:\3P\trzy\obj\Debug\net6.0-windows\trzy.csproj.CoreCompileInputs.cache
+C:\3P\trzy\obj\Debug\net6.0-windows\trzy.dll
+C:\3P\trzy\obj\Debug\net6.0-windows\refint\trzy.dll
+C:\3P\trzy\obj\Debug\net6.0-windows\trzy.pdb
+C:\3P\trzy\obj\Debug\net6.0-windows\trzy.genruntimeconfig.cache
+C:\3P\trzy\obj\Debug\net6.0-windows\ref\trzy.dll
